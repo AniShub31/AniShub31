@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Aniket Shubham (@AniShub31)
 
-I'm a mechanical engineer diving into data science with a passion for solving real-world problems — currently exploring the **agritech space** as a budding **data scientist**
+#### I'm a mechanical engineer diving into data science with a passion for solving real-world problems — currently exploring the **agritech space** as a budding **data scientist**
 ---
 
 ### 👀 I’m interested in:
