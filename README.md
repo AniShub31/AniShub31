@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Aniket Shubham (@AniShub31)
 
-#### I'm a mechanical engineer diving into data science with a passion for solving real-world problems — currently exploring the **agritech space** as a budding **data scientist**
+Mechanical engineering graduate with a passion for vehicle dynamics — experienced in suspension design, control systems, and simulation tools like MATLAB, Simulink, and MSC Adams. Now exploring data science to solve real-world problems through code, insights, and innovation across industries.
+
 ---
 
 ### 👀 I’m interested in:
@@ -37,7 +38,7 @@ He/Him
 ---
 
 ### ⚡ Fun fact:
-I once reverse-engineered an F1 gearbox in college — now I’m shifting gears with Python, predicting markets instead of lap times 🏁📈
+I once reverse-engineered a gearbox in college — now I’m shifting gears with Python, predicting markets instead of lap times 🏁📈
 
 ---
 
